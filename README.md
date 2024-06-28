@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello!👋)](https://git.io/typing-svg)
+ 
+
 ### 기술스택
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
