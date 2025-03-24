@@ -23,5 +23,9 @@
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
+## Stats
 ![JungMyungGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungmyunggi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmyunggi&layout=compact)
+
+## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jmk101711)](https://solved.ac/jmk101711/)
